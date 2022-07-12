@@ -72,3 +72,6 @@ worked with dancers, singers, artists, designers, and even some in the financial
 - Make sure to get the right connections needed to pull off the event
 - Did flexible admin work from the ground up
 - Did most of the accounting, budgeting, and planning
+
+# [GO BACK TO MAIN PAGE](https://writerzzub.github.io/)
+
